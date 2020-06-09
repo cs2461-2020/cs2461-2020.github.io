@@ -31,7 +31,7 @@ By the end of this course, students will be able to:
 
 
 **Course Outline**
-
+  * TBD
 
 ### Textbook and Resources  ###
 

@@ -2,5 +2,4 @@
 Website for CS2461- Fall 2020
 
 TODO list
-- [ ] help setup template for graphics
-- [ ] add syllabus content
+- [intro](lectures/intro.md) 

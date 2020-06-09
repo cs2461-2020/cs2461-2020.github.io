@@ -10,8 +10,8 @@ permalink: /syllabus/
 **Prerequisites:** Programming and Data structures (CS 1112 or CS 1132), Discrete Math ( CS1311), and concurrent registration in CS2113 or a prior knowledge of C. (See [undergraduate curriculum](www.cs.seas.gwu.edu/bachelor-science-program/)).
 
 **Time/Place:**
-  * **Class meets **
-  * **Lab meets **
+  * **Class meets:**
+  * **Lab meets:**
 
 **Office Hours:**
 Check [Piazza](https://piazza.com/gwu/) for most updated ones.
@@ -32,14 +32,6 @@ By the end of this course, students will be able to:
 
 **Course Outline**
 
-  * Weeks 1-3: Introductory C programming
-    * Syntax, memory management, libraries, ﬁle IO
-  * Weeks 4-8: Intermediate Java programming
-    * Quick review, objects, class hierarchies
-  * Weeks 9-14: Advanced Java Topics
-    * GUIs, concurrency/threading, IO, networking, web
-  * Throughout: Software engineering techniques
-    * Requirements, Architecture, Design Principles
 
 ### Textbook and Resources  ###
 
@@ -61,20 +53,25 @@ Software:
 
 
 **Approximate grading:**
-   * 8%: There will be ten quizzes. These will be held at the start of the lecture (some quizzes may involve programming). Late arrival means you will miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled every week except during the weeks of the two exams and the first week of class. I will ignore the two lowest scores on your quizzes when computing the grade.
+   * **8%: Ten quizzes.** These will be held at the start of the lecture (some quizzes may involve programming). Late arrival means you will miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled every week except during the weeks of the two exams and the first week of class. I will ignore the two lowest scores on your quizzes when computing the grade.
     * What about extra credit on the quizzes: if you do very well on all your quizzes, then I will take this into account  if you do not get a very good grade on the exams.
-   * 20%: Homeworks and Lab Assignments
+   * **20%: Homeworks and Lab Assignments**
     * A number of homeworks will be assigned. The goal of the homeworks is to improve your learning of the concepts covered in the lectures.
     * Lab Assignments: During some of the lab or lecture sessions, there will be a number of simple lab assignments that you must complete during the lab section within the allotted time (which will typically be less than 45 minutes).  Late submission (i.e., after the end of the lab) will not be accepted. Some of the hardware lab assignments will require demonstrating your solution to the TA or instructor.
-   * 30%: Projects and Team Activities: These consist of projects and some team exercises/projects. The projects will require at least 10-20 hours of intensive programming or design or HW implementation (software or hardware). For team activities, each student is assigned to a team during class activities and possibly for some projects. (The team composition may change midway through the semester.)  
+   * **30%: Projects and Team Activities:** These consist of projects and some team exercises/projects. The projects will require at least 10-20 hours of intensive programming or design or HW implementation (software or hardware). For team activities, each student is assigned to a team during class activities and possibly for some projects. (The team composition may change midway through the semester.)  
     * In-class Exercises and team assignments 2%: There will be a number of in-class exercises (during the lecture  or sometimes during the lab), which  you work in a team to solve during the lecture/lab.  The exercises will be given out during class. You must work on these with your team members. In addition, some of these assignments will be posted ahead of time so I expect that you will discuss with your team members and come to class prepared to answer the questions.
     * Projects: There will be a number of projects  -- typically, the first few projects will require working in teams and the others require that you work alone with no collaboration. For some of the projects, the material required to complete the projects will be covered in the lab section. 
-   * 42%: There will be two exams totaling 100 points and an optional "makeup"  exam (of 50 points)
+   * **42%: Two exams totaling 100 points and an optional "makeup"  exam (of 50 points)**
     * The two midterm exams account for 45 % of the total. (There will also be an optional "makeup" comprehensive exam with multiple choice questions held during the last week of classes-- this will allow you to make up part of your exam scores. If you choose to take the makeup exam, to try and improve your exam scores, then your overall exam score will be the average of the three exams.)
     * What about final exam: There is no required final exam, but even if you choose not to take the optional makeup exam you must still plan on setting aside time for the final week to complete your final project(s). 
 
 **Final Grading**
-  * Do I curve the grades ? Yes. Grades will be based on the 'weighted total' after curving and scaling, where the weights for each catergory are shown above - normalization places your total as a percentage of the highest total in the class, and curving identifies clusters. Grades in each category and your weighted total will be posted  on blackboard.   Grades are skewed toward the higher end if course average (or median) is high and skewed towards lower if they are low.  Grades are then approximately (since they will depend on the final distribution, including median score) assigned in the following ranges when the assumption is that the normalized average or median is around 78-80. Grades are skewed toward the higher end if average is higher and skewed towards lower if average is lower.
+  * Do I curve the grades? Yes. 
+  * Grades will be based on the 'weighted total' after curving and scaling, where the weights for each catergory are shown above - normalization places your total as a percentage of the highest total in the class, and curving identifies clusters.  
+  * Grades in each category and your weighted total will be posted on blackboard.   
+  * Grades are skewed toward the higher end if course average (or median) is high and skewed towards lower if they are low.  
+  * Grades are then approximately (since they will depend on the final distribution, including median score) assigned in the following ranges when the assumption is that the normalized average or median is around 78-80. Grades are skewed toward the higher end if average is higher and skewed towards lower if average is lower.
+  
   | Percentage  | Letter grade 
   | :--- |:---  |
   | 90-100 | A range (A- to A)|

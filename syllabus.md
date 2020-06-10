@@ -96,7 +96,7 @@ Software:
 
 **Email policy:** You can send email to my GW email address. I will answer most class email during specific times set aside during the week for this purpose - so do not expect an instantaneous response. 
 
-**Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you provide a note from a doctor.  Otherwise, use a late pass. *If you are sick and contagious, you should not come to class!*  You are still responsible for all material you missed, which generally will be available on the course website. It is your responsibility to ask another student what you missed.
+**Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you provide a note from a doctor. *If you are sick and contagious, you should not come to class!*  You are still responsible for all material you missed, which generally will be available on the course website. It is your responsibility to ask another student what you missed.
 
 **Academic Integrity policy:** It is very important in this course (and in life), that your work be your own. These guidelines will help you achieve that.
 

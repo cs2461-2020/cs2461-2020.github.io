@@ -18,11 +18,11 @@ Check [Piazza](https://piazza.com/gwu/) for most updated ones.
 
 
 **Course Staff:**
-  - William Miller[bmiller8@gwmail.gwu.edu](mailto:bmiller8@gwmail.gwu.edu) - TA
-  - Sarah Morin [sarahmorin@gwmail.gwu.edu](mailto:sarahmorin@gwmail.gwu.edu) - UTA
-  - Linnea Dierksheide [ldierksheide@gwmail.gwu.edu](mailto:ldierksheide@gwmail.gwu.edu) - UTA
-  - Catherine Meadows [meadowsc@gwmail.gwu.edu](mailto:meadowsc@gwmail.gwu.edu) - UTA
-  - Graham Schock [gschock@gwmail.gwu.edu](mailto:gschock@gwmail.gwu.edu) - UTA
+  - [William Miller](mailto:bmiller8@gwmail.gwu.edu) - TA
+  - [Sarah Morin](mailto:sarahmorin@gwmail.gwu.edu) - UTA
+  - [Linnea Dierksheide](mailto:ldierksheide@gwmail.gwu.edu) - UTA
+  - [Catherine Meadows](mailto:meadowsc@gwmail.gwu.edu) - UTA
+  - [Graham Schock](mailto:gschock@gwmail.gwu.edu) - UTA
   
   ### Course Description and Learning Outcomes  ###
 

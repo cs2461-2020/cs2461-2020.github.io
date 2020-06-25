@@ -41,6 +41,6 @@ layout: home
 
 | Date  | What Happens | Materials
 | :--- |:---  |:--- |
-| Mon 1/13  | Week 1 - [Intro](lectures/intro.pdf) | | 
+| Mon 9/1  | Week 1 - [Intro](lectures/intro.pdf) | | 
 
 </div>

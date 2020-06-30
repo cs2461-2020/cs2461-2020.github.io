@@ -39,8 +39,9 @@ layout: home
 
 <div style="font-size:90%">
 
-| Date  | What Happens | Materials
+| Date  | Topic | Materials
 | :--- |:---  |:--- |
-| Mon 9/1  | Week 1 - [Intro](lectures/intro.pdf) | | 
+| Tues 9/1  | Week 1 - [Intro](lectures/intro.pdf)| | 
+| Thur 9/3  | [Data Representation] | |
 
 </div>

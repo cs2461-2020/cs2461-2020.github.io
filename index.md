@@ -34,6 +34,8 @@ layout: home
 ## Class Resources ##
   - [Piazza]()
   - [Slack]() - [Join here]()
+  - [LC3 Download Instructions](https://github.com/chiragsakhuja/lc3tools/blob/master/docs/DownloadingAndInstalling.pdf)
+  - [LC3 Download Page](https://github.com/chiragsakhuja/lc3tools/releases)
 
 ## Schedule  ##
 

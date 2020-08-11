@@ -21,8 +21,8 @@ Check [Piazza](https://piazza.com/gwu/) for most updated ones.
   - [William Miller](mailto:bmiller8@gwmail.gwu.edu) - TA
   - [Sarah Morin](mailto:sarahmorin@gwmail.gwu.edu) - UTA
   - [Linnea Dierksheide](mailto:ldierksheide@gwmail.gwu.edu) - UTA
-  - [Catherine Meadows](mailto:meadowsc@gwmail.gwu.edu) - UTA
-  - [Graham Schock](mailto:gschock@gwmail.gwu.edu) - UTA
+  - [Catherine Meadows](mailto:meadowsc@gwmail.gwu.edu) - LA 
+  - [Graham Schock](mailto:gschock@gwmail.gwu.edu) - LA
   
 ### Course Description and Learning Outcomes  ###
 
@@ -102,17 +102,16 @@ Software:
 
 You must:
   * Do your best to solve all homework, quizzes, and exams on your own.
-  * Write the names of any students you collaborated with as a comment at the top of your main file (subject to the constraints below).
   * Notify me if you are using a tutor (this is not a problem, just let me know).
 
 You may:
-  * Discuss general approaches to solving the homework problems with other students.
-  * Have another student look at a specific snippet of your code (e.g., 10 lines) to help you debug a programming error.
+  * Discuss general approaches to solving the homework problems with other students by referring to questions in the textbook.
+  * Discuss general system, compiler, or softare issues with another student although it is recommended that you contact one of the TAs or LAs for this purpose. (An example is issues with the C compiler or the LC3 assembler errors. ) You may use code provided in the textbook, and for the C programming projects you can reuse your own code from another course BUT you must clearly state this in your submission.
 
 You may not:
   * Copy code to or from other students or people outside of the class.
   * Have someone else write code for you.
-  * Copy code from the internet, unless you specifically reference the source and can explain how it works. This should be a tiny minority of the code you submit.
+  * Copy code from the internet.
   * Write code as a group and then submit identical or slightly modified versions---if you discuss general approaches to solving a problem together, you still must be writing up your own independent solution.
 
 

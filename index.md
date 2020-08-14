@@ -43,8 +43,7 @@ layout: home
 | :--- |:---  |
 |   | Week 1 - [Intro](lectures/intro.pdf)<br> testline2|  
 | Weeks2-4  | [Data Representation] <br> test line 3| 
-</div>
-<div style="font-size:90%">
+
 | Topic  | Materials 
 | :--- |:---  |
 |   | Week 1 - [Intro](lectures/intro.pdf)<br> testline2|  

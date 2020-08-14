@@ -8,6 +8,8 @@ layout: home
         <li><b>Prof. Bhagi Narahari</b></li>
         <li><a href="mailto:narahari@gwu.edu">narahari@gwu.edu</a></li>
         <li>Office Hours: </li>
+        <li><b> Sarah Morin  </b> (UTA) </li>
+        <li> sarahmorin@gwu.edu </li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
@@ -15,6 +17,8 @@ layout: home
         <li><b>William (Billy) Miller </b> (TA)</li>
         <li><a href="mailto:bmiller8@gwmail.gwu.edu">bmiller8@@gwmail.gwu.edu</a> </li>
         <li>Office Hours: <a href="https://piazza.com/gwu/">Check Piazza</a></li>
+        <li><b> Linnea Diersheide </b> (UTA) </li>
+        <li> email </li>
       </ul>
 </div>
 </div>
@@ -43,7 +47,6 @@ layout: home
 | :--- |:---  |
 |   | Week 1 - [Intro](lectures/intro.pdf)<br> testline2|  
 | Weeks2-4  | [Data Representation] <br> test line 3| 
-
 | Topic  | Materials 
 | :--- |:---  |
 |   | Week 1 - [Intro](lectures/intro.pdf)<br> testline2|  

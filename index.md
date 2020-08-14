@@ -41,9 +41,12 @@ layout: home
 
 <div style="font-size:90%">
 
-| Date  | Topic | Materials
-| :--- |:---  |:--- |
-| Tues 9/1  | Week 1 - [Intro](lectures/intro.pdf)| | 
-| Thur 9/3  | [Data Representation] | |
+| Topic  | Materials 
+| :--- |:---  |
+|   | Week 1 - [Intro](lectures/intro.pdf)<br> testline2|  
+| Weeks2-4  | [Data Representation] <br> test line 3| 
 
-</div>
+| Topic  | Materials 
+| :--- |:---  |
+|   | Week 1 - [Intro](lectures/intro.pdf)<br> testline2|  
+| Weeks2-4  | [Data Representation] <br> test line 3| </div>

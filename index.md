@@ -43,12 +43,12 @@ layout: home
 
 <div style="font-size:90%">
 
-| Topic  | Materials 
+| Introduction  | Materials 
 | :--- |:---  |
-|   | Week 1 - [Intro](lectures/intro.pdf)<br> testline2|  
-| Weeks2-4  | [Data Representation] <br> test line 3| 
+| Week 0  | Week 1 - [Course Logistics](lectures/logistics.pdf)<br> Video|  
+| Week 1  | [Data Representation1](lectures/datarep1.pdf) <br> [Operations](lectures/datarep2.pdf)| 
 
-| Topic  | Materials 
+| Digital Logic  | Materials 
 | :--- |:---  |
 |   | Week 1 - [Intro](lectures/intro.pdf)<br> testline2|  
 | Weeks2-4  | [Data Representation] <br> test line 3| 

@@ -75,5 +75,10 @@ layout: home
 | Labs Weeks 10-12  <br> I/O and Files in C| [Working with C](lectures/C-Labs.pdf)<br> [Tools: GDB, Valgrind](lectures/gdb.pdf) [Video] <br> [I/O and Files in C](lectures/Files-IO.pdf) [Video]| 
 | <b> Exam 2 </b> | All material upto Dynamic Memory in C |
 
+| Program Performance and Computer Architecture  | Materials 
+| :--- |:---  |
+| Performance Optimization (Weeks 12-14) <br> Memory Hierarchy <br> Code Optimization   |  [Measuring System Performance](lectures/performance1.pdf) [Video]<br> [Memory Hierarchy] (lectures/memory.pdf) [Video] <br> [Code Optimization Techniques](lectures/optimization.pdf)|  
+| Course Summary  | [Course Summary: Real Architectures](lectures/summary.pdf) [Video] | 
+| Lab Week 1  | [Introduction to Circuits](lectures/ohmslaw.pdf) [Video] <br> [Getting Stated with TinkerCad](lectures/lab1.pdf) [Video]| 
 
 </div>

@@ -45,12 +45,19 @@ layout: home
 
 | Introduction  | Materials 
 | :--- |:---  |
-| Week 0  | Week 1 - [Course Logistics](lectures/logistics.pdf)<br> Video|  
-| Week 1  | [Data Representation1](lectures/datarep1.pdf) <br> [Operations](lectures/datarep2.pdf)| 
+| Week 0  |  [Course Logistics](lectures/logistics.pdf) [Video]<br> [Course Intro] (lectures/syllabus.pdf) [Video]|  
+| Week 1- Data Representation  | [Data Representation1](lectures/datarep1.pdf) [Video] <br> [Operations](lectures/datarep2.pdf) [Video]| 
+| Lab Week 1  | [Introduction to Circuits](lectures/ohmslaw.pdf) [Video] <br> [Getting Stated with TinkerCad](lectures/lab1.pdf) [Video]| 
 
 | Digital Logic  | Materials 
 | :--- |:---  |
-|   | Week 1 - [Intro](lectures/intro.pdf)<br> testline2|  
-| Weeks2-4  | [Data Representation] <br> test line 3| 
+| Introduction (Week 2)  |  [Devices](lectures/transistor-gates.pdf)<br> [Boolean Functions](lectures/logic1.pdf) [Video]|  
+| Combinational Logic Circuits <br> (Weeks 2-4)  | [Karnaugh maps and Circuit Design](lectures/Kmaps.pdf) <br> [Combinational Logic Devices](lectures/logic2.pdf) [Video]<br> [Circuits with Feedback-FlipFlops](lectures/logic3.pdf) [Video}| 
+| Sequential Logic (Week 4-5)| [Sequential Logic](seqlogic.pdf) [Video] <br> [Finite State Machine Design](lectures/fsm.pdf) [Video]|
+| Week 2 Lab | Using DIP Switches and a Simple Logic Circuit |
+| Week 3 Lab | Design of Combinational Logic circuit using Integrated Circuits |
+| Week 4 Lab | Design of Logic Devices - project 1|
+
+
 
 </div>

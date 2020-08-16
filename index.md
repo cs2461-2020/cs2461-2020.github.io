@@ -69,7 +69,7 @@ layout: home
 
 | Implementing C programs on Machine ISA   | Materials 
 | :--- |:---  |
-| Running high level programs (Week 9) <br> Quick Review of C (Week 9)  |  [Translation Process and Role of Compiler](lectures/C-Lecture1.pdf) [Video]<br> [C Review] (lectures/C-lecture1.pdf) [Video]|  
+| Running high level programs (Week 9) <br> Quick Review of C (Week 9)  |  [Translation Process and Role of Compiler](lectures/C-Lecture1.pdf) [Video] <br> [C Review](lectures/C-lecture1.pdf) [Video]|  
 | Running C programs on LC3  (weeks 10-12)<br> Run-time Stack <br> Activation Records and Function Calls <br> Arrays and Pointers <br> Dynamic Memory (Heap) | [Run-time Stack](lectures/runtimestack.pdf) [Video] <br> [Function Calls](lectures/functions.pdf)<br> [Arrays and Pointers](lectures/pointers.pdf) [Video] <br> [Dynamic Memory-Malloc](lectures/dynamic.pdf) [Video]| 
 
 | Labs Weeks 10-12  <br> I/O and Files in C| [Working with C](lectures/C-Labs.pdf)<br> [Tools: GDB, Valgrind](lectures/gdb.pdf) [Video] <br> [I/O and Files in C](lectures/Files-IO.pdf) [Video]| 

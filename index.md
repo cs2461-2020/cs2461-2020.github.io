@@ -57,7 +57,15 @@ layout: home
 | Week 2 Lab | Using DIP Switches and a Simple Logic Circuit |
 | Week 3 Lab | Design of Combinational Logic circuit using Integrated Circuits |
 | Week 4 Lab | Design of Logic Devices - project 1|
+| Week 5 Lab | Data Representation and Bit manipulation in C - Project 2 |
 
+| ISA and Assembly Programming  | Materials 
+| :--- |:---  |
+| von Neuman Model (Week 6) <br> LC3 Instruction Set Architecture(ISA)  |  [von Neuman Architecture and Instruction Execution](lectures/arch1.pdf) [Video]<br> [LC3 Instruction Set] (lectures/LC3-ISA.pdf) [Video]|  
+| Processor Datapath (week 7) | [Datapath Design](lectures/Datapath.pdf) [Video] <br> [Example in Cedar Logic](lectures/datapath.cdl) [Video]| 
+| Assembly Programming <br> <b>Exam 1 </b> | [Programming in Assembly](lectures/assembly1.pdf) [Video] <br> <b> Exam Covers material upto LC3 ISA </b> |
+|Assembly Programming <br> Weeks 8-9 | [I/O and Traps in LC3](lectures/assembly2.pdf) [Video] <br> [Subroutines/Functions in Assembly](lectures/assembly3.pdf) [Video] <br> [Stacks and Interrupts](lectures/stack.pdf) [Video]|
+| Labs Weeks 6-9 <br> Lab Week 7 | [Getting Started with LC3 simulator](lectures/lc3-simulator.pdf) [Video] <br> [Writing an Assembly Program](lectures/LC3-asm1.pdf) [Video]<br> [Assembly program using Subroutines](lectures/LC3-asm2.pdf)| 
 
 
 </div>

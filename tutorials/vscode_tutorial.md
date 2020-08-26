@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Using Visual Studio Code
+title: Visual Studio Code Guide
 ---
 
 Visual Studio Code (VS Code) is a free code editor available for Windows, MacOS, and Linux. VS Code offers many helpful extensions, including live share features and remote development capabilities. 

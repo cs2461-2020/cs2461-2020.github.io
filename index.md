@@ -10,15 +10,19 @@ layout: home
         <li>Office Hours: </li>
         <li><b> Sarah Morin  </b> (UTA) </li>
         <li> sarahmorin@gwu.edu </li>
+        <li><b> Catherine Meadows </b> (LA) </li>
+        <li> meadowsc@gwu.edu </li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b>William (Billy) Miller </b> (TA)</li>
-        <li><a href="mailto:bmiller8@gwmail.gwu.edu">bmiller8@@gwmail.gwu.edu</a> </li>
+        <li><a href="mailto:bmiller8@gwmail.gwu.edu">bmiller8@gwmail.gwu.edu</a> </li>
         <li>Office Hours: <a href="https://piazza.com/gwu/">Check Piazza</a></li>
-        <li><b> Linnea Diersheide </b> (UTA) </li>
-        <li> email </li>
+        <li><b> Linnea Dierksheide </b> (UTA) </li>
+        <li> ldierksheide@gwu.edu </li>
+        <li><b> Graham Schock </b> (LA) </li>
+        <li> gschock@gwu.edu </li>
       </ul>
 </div>
 </div>

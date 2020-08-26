@@ -45,7 +45,7 @@ layout: home
   - [Git Instructions](tutorials/git_tutorial.md) & [Video Demo](https://youtu.be/RvEgfSeEuB0)
   - [CEDAR Logic Instructions](tutorials/cedarlogic_tutorial.md) & Video Demo [video]
   - [Logism Instructions](tutorials/logism_tutorial.md) & [Video Demo](https://youtu.be/rQOv0h-4TEo) 
-  - [Tinkercad Instructions](tutorials/tinkercad_tutorial.md) & Video Demo [video]
+  - [Tinkercad Instructions](tutorials/tinkercad_tutorial.md) & [Video Demo](https://youtu.be/Tzx1uZuObxk)
   - [Visual Studio Code Instructions](tutorials/vscode_tutorial.md) & [Video Demo](https://youtu.be/WhppZrMvoBU)
 
 ## Schedule  ##

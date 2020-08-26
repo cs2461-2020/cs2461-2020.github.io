@@ -60,14 +60,16 @@ The course will be taught using a combination of recorded video lectures (and tu
 
 **Grading:**
    * **12%: Quizzes and Class participation.** Quizzes will be held at the start of the lecture (some quizzes may involve programming). Late arrival means you will miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled approximately every week except during the weeks of the two exams and the first week of class. I will ignore one lowest score on your quizzes when computing the grade.
+   
     * What about extra credit on the quizzes: if you do very well on all your quizzes, then I will take this into account  if you do not get a very good grade on the exams.
+    
     * Class Participation: The grades for class participation will be based on required survey questions for each class and on the in-class exercises (as a group) during the lab and lecture sessions. There will be a number of these in-class exercises (during the lecture  or sometimes during the lab), and the exercises will be given out during class. In addition, some of these assignments will be posted ahead of time so I expect that you will discuss with your team members and come to class prepared to answer the questions   
-    * **20%: Homeworks ** A number of homeworks will be assigned. The goal of the homeworks is to improve your learning of the concepts covered in the lectures. No collaboration of any kind on the homeworks.
-
-* Lab Assignments: During some of the lab or lecture sessions, there will be a number of short assignments that you must complete during the lab (or lecture) section within the allotted time (which will typically be less than 45 minutes).  Late submission (i.e., after the end of the lab) will not be accepted. Some of the hardware lab assignments (using a simulator) will require demonstrating your solution to the TA or instructor.
-   * **30%: Projects:** There will be six projects which will require  10-30 hours of intensive programming or design or HW implementation (software or hardware). For team activities, each student is assigned to a team during class activities and possibly for some projects.   
-    *  For some of the projects, the material required to complete the projects will be covered in the lab section. 
-   * **38%: Two exams each of equal weight. **
+    
+    * **20%: Homeworks and Lab Assignments.** A number of homeworks will be assigned. The goal of the homeworks is to improve your learning of the concepts covered in the lectures. No collaboration of any kind on the homeworks. Lab Assignments: During some of the lab or lecture sessions, there will be a number of short assignments that you must complete during the lab (or lecture) section within the allotted time (which will typically be less than 45 minutes).  Late submission (i.e., after the end of the lab) will not be accepted. Some of the hardware lab assignments (using a simulator) will require demonstrating your solution to the TA or instructor.
+    
+   * **30%: Projects:** There will be six projects which will require  10-30 hours of intensive programming or design or HW implementation (software or hardware). For group activities, each student is assigned to a group during class activities and possibly for one of the projects.  For some of the projects, the material required to complete the projects will be covered in the lab section. 
+   
+   * **38%: Two exams each of equal weight.**
     * The two (midterm) exams account for 38 % of the total. (There will also be an optional "makeup" comprehensive oral exam  held during the last week of classes-- this will allow you to make up part of your exam scores. If you choose to take the makeup exam, to try and improve your exam scores, you must inform the instructor a week before the last class.)
     * What about final exam: There is no required final exam, but even if you choose not to take the optional makeup exam you must still plan on setting aside time for the final week to complete your final project(s). 
 

@@ -87,7 +87,7 @@ The course will be taught using a combination of recorded video lectures (and tu
 
 ### Course Policies  ###
 
- **If you have a disability that may effect your participation in this course and wish to discuss academic accommodations, please contact me as soon as possible.**
+ **If you have a disability, or a health or a family emergency, that may effect your participation in this course and wish to discuss academic accommodations, please contact me as soon as possible.**
 
 **Late work policy:** There are **no late submissions** allowed in this course. However, you are allowed to submit exactly ONE late assignment (homework or lab or project) during the entire course - and you will incur a 10% penalty for this one late submission. Please notify the instructor when you choose to submit an assignment late - the default extension is 36 hours past the original due date/time. The only exception to this rule is if you have a medical or family emergency, and proper documentation is required in order to get an extension.
 

@@ -37,7 +37,7 @@ This is an introductory course on Computer organization and computer systems. Th
 
 
 **Course Outline**
-  * TBD
+  * See the course webpage for weekly schedule
 
 ### Textbook and Resources  ###
 
@@ -53,22 +53,22 @@ Software:
   * [CEDAR Logic Simulator](http://sourceforge.net/projects/cedarlogic/):   Hardware logic/circuit simulator - this is the circuit simulation tool I will be using in the class examples and exercises. It only runs on MS Windows. If you use Mac, then you could use this for your practice:  [Logisim for Mac](http://mac.softpedia.com/get/Math-Scientific/Logisim.shtml)
   * [LC3 Assembler and Simulator](http://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html):  Assembler and Simulator for LC3 processor. Available from the textbook website.
 
+** Lab Sections ** You must be registered in a lab section. These will be conducted by the TAs. The Labs will be held on Blackboard. The labs will review material but will also cover new skills and software tools that will not be covered in the lectures.
+
 ### Workload and Grading  ###
+The course will be taught using a combination of recorded video lectures (and tutorials) and live synchronous sessions. As a 3 credit course, it will require a minimum of 2.5 hours per week of direct instruction and minimum of 5 hours of independent learning. In addition, the laboratory section will require 75 minutes of direct instruction and will include independent learning exercises and additional software tools to assist in your learning. Over the course of the semester, your independent learning will include watching video recordings, readings (lecture notes and/or textbook), homeworks and projects. The synchronous sessions will include lecture summaries, exercises and discussions. All synchronous sessions will be conducted using Blackboard Collaborate, and recordings of most of these sessions will be provided on blackboard.
 
-**Expected time commitment:** The GW standard is that one credit hour corresponds to *a minimum* of 50 minutes of instruction plus 100 minutes of independent learning (e.g., homework and exam prep) per week. This is a 3 credit course, thus you should expect to spend 2.5 hours in class and 50 minutes in lab, *plus four to five hours doing homework per week.* If you are spending substantially less time than this, it likely means that you are not reviewing the modules after lecture or reading them carefully enough when completing assignments. 
-
-
-**Approximate grading:**
-   * **8%: Ten quizzes.** These will be held at the start of the lecture (some quizzes may involve programming). Late arrival means you will miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled every week except during the weeks of the two exams and the first week of class. I will ignore one lowest score on your quizzes when computing the grade.
+**Grading:**
+   * **12%: Quizzes and Class participation.** Quizzes will be held at the start of the lecture (some quizzes may involve programming). Late arrival means you will miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled approximately every week except during the weeks of the two exams and the first week of class. I will ignore one lowest score on your quizzes when computing the grade.
     * What about extra credit on the quizzes: if you do very well on all your quizzes, then I will take this into account  if you do not get a very good grade on the exams.
-   * **22%: Homeworks and InClass Assignments**
-    * A number of homeworks will be assigned. The goal of the homeworks is to improve your learning of the concepts covered in the lectures. No collaboration of any kind on the homeworks.
-* Class (and Teamwork) Participation: The grades for class participation will be based on required survey questions for each class and on the in-class exercises (as a group) during the lab and lecture sessions. There will be a number of these in-class exercises (during the lecture  or sometimes during the lab), which  you work in a team to solve during the lecture/lab.  The exercises will be given out during class. You must work on these with your team members. In addition, some of these assignments will be posted ahead of time so I expect that you will discuss with your team members and come to class prepared to answer the questions
+    * Class Participation: The grades for class participation will be based on required survey questions for each class and on the in-class exercises (as a group) during the lab and lecture sessions. There will be a number of these in-class exercises (during the lecture  or sometimes during the lab), and the exercises will be given out during class. In addition, some of these assignments will be posted ahead of time so I expect that you will discuss with your team members and come to class prepared to answer the questions   
+    * **20%: Homeworks ** A number of homeworks will be assigned. The goal of the homeworks is to improve your learning of the concepts covered in the lectures. No collaboration of any kind on the homeworks.
+
 * Lab Assignments: During some of the lab or lecture sessions, there will be a number of short assignments that you must complete during the lab (or lecture) section within the allotted time (which will typically be less than 45 minutes).  Late submission (i.e., after the end of the lab) will not be accepted. Some of the hardware lab assignments (using a simulator) will require demonstrating your solution to the TA or instructor.
    * **30%: Projects:** There will be six projects which will require  10-30 hours of intensive programming or design or HW implementation (software or hardware). For team activities, each student is assigned to a team during class activities and possibly for some projects.   
     *  For some of the projects, the material required to complete the projects will be covered in the lab section. 
-   * **40%: Two exams each of equal weight. **
-    * The two midterm exams account for 40 % of the total. (There will also be an optional "makeup" comprehensive oral exam  held during the last week of classes-- this will allow you to make up part of your exam scores. If you choose to take the makeup exam, to try and improve your exam scores, you must inform the instructor a week before the last class.)
+   * **38%: Two exams each of equal weight. **
+    * The two (midterm) exams account for 38 % of the total. (There will also be an optional "makeup" comprehensive oral exam  held during the last week of classes-- this will allow you to make up part of your exam scores. If you choose to take the makeup exam, to try and improve your exam scores, you must inform the instructor a week before the last class.)
     * What about final exam: There is no required final exam, but even if you choose not to take the optional makeup exam you must still plan on setting aside time for the final week to complete your final project(s). 
 
 **Final Grading**
@@ -96,7 +96,7 @@ Software:
 
 **Email policy:** You can send email to my GW email address. I will answer most class email during specific times set aside during the week for this purpose - so do not expect an instantaneous response. 
 
-**Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you provide a note from a doctor. *If you are sick and contagious, you should not come to class!*  You are still responsible for all material you missed, which generally will be available on the course website. It is your responsibility to ask another student what you missed.
+**Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you contact me. You are still responsible for all material you missed, which generally will be available on the course website. It is your responsibility to ask another student what you missed.
 
 **Academic Integrity policy:** It is very important in this course (and in life), that your work be your own. These guidelines will help you achieve that.
 
@@ -117,5 +117,10 @@ You may not:
 
 The [Academic Integrity Code](https://github.com/GWU-CSCI3411-Fall16/hw-0-gparmer/blob/master/cs_integrity.md) will apply to this course. Please read through the code carefully. *Penalties for violating the code or the policies described here include failing this course*, and are elaborated in the [GW Academic Integrity Code](https://studentconduct.gwu.edu/code-academic-integrity). Note that the _minimum_ punishment is failure of the assignment.
 
-##### Further Notes  #####
+##### Support for students outside the classroom  #####
 
+* ** Virtual Academic Support ** A full range of academic support is offered virtually in fall 2020. See coronavirus.gwu.edu/top-faqs for updates. Tutoring and course review sessions are offered through Academic Commons in an online format. See academiccommons.gwu.edu/tutoring Writing and research consultations are available online. See academiccommons.gwu.edu/writing-research-help Coaching, offered through the Office of Student Success, is available in a virtual format. See studentsuccess.gwu.edu/academic-program-support. Academic Commons offers several short videos addressing different virtual learning strategies for the unique circumstances of the fall 2020 semester. See academiccommons.gwu.edu/study-skills. They also offer a variety of live virtual workshops to equip students with the tools they need to succeed in a virtual environment. See tinyurl.com/gw-virtual-learning
+
+* ** Academic Commons ** Academic Commons provides tutoring and other academic support resources to students in many courses. Students can schedule virtual one-on-one appointments or attend virtual drop-in sessions. Students may schedule an appointment, review the tutoring schedule, access other academic support resources, or obtain assistance at academiccommons.gwu.edu. 
+* ** Disability Support Services (DSS) 202 994 8250. Any student who may need an accommodation based on the potential impact of a disability should contact Disability Support Services to establish eligibility and to coordinate reasonable accommodations. disabilitysupport.gwu.edu
+* ** Counseling and Psychological Services. 202 994 5300. GW’s Colonial Health Center offers counseling and psychological services, supporting mental health and personal development by collaborating directly with students to overcome challenges and difficulties that may interfere with academic, emotional, and personal success. healthcenter.gwu.edu/counseling-and-psychological-services

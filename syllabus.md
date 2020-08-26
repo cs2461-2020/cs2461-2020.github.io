@@ -7,7 +7,7 @@ permalink: /syllabus/
 
 **Instructor:** Prof. Bhagi Narahari
 **Email:** [narahari@gwu.edu](mailto:narahari@gwu.edu)
-**Prerequisites:** Programming and Data structures (CS 1112 or CS 1132), Discrete Math ( CS1311), and concurrent registration in CS2113 or a prior knowledge of C. (See [undergraduate curriculum](www.cs.seas.gwu.edu/bachelor-science-program/)).
+**Prerequisites:** Programming and Data structures (CS 1112 or CS 1132), Discrete Math ( CS1311), and concurrent registration in CS2113 or a prior knowledge of C. (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/)).
 
 **Time/Place:**
   * **Class meets:**

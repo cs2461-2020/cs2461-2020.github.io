@@ -54,7 +54,7 @@ layout: home
 
 | Introduction  | Materials 
 | :--- |:---  |
-| Week 0  |  [Course Logistics](lectures/logistics.pdf) [Video]<br> [Course Intro] (lectures/syllabus.pdf) [Video]|  
+| Week 0  |  [Course Logistics](lectures/logistics.pdf) [Video]<br> [Course Intro](lectures/syllabus.pdf) [Video]|  
 | Week 1- Data Representation  | [Data Representation1](lectures/datarep1.pdf) [Video] <br> [Operations](lectures/datarep2.pdf) [Video]| 
 | Lab Week 1  | [Introduction to Circuits](lectures/ohmslaw.pdf) [Video] <br> [Getting Stated with TinkerCad](lectures/lab1.pdf) [Video]| 
 

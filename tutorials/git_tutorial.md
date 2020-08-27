@@ -5,6 +5,8 @@ title: Git Tutorial
 
 Git is an extremely powerful distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It comes packaged as a command-line tool available for Windows, MacOS and Linux. Git is the industry standard for version controlled development. The goal of this tutorial is to establish a baseline knowledge for cloning, editing, committing and pushing to a GitHub repository in Visual Studio Code. 
 
+**Watch** a video demo of using Git with VS Code [here](https://youtu.be/RvEgfSeEuB0)
+
 
 ### Getting Started ###
 - Read through and follow the Visual Studio Code Tutorial shared by your professor

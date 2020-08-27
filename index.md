@@ -43,7 +43,7 @@ layout: home
   - [LC3 Download Instructions](https://github.com/chiragsakhuja/lc3tools/blob/master/docs/DownloadingAndInstalling.pdf)
   - [LC3 Download Page](https://github.com/chiragsakhuja/lc3tools/releases)
   - [Git Instructions](tutorials/git_tutorial.md) & [Video Demo](https://youtu.be/RvEgfSeEuB0)
-  - [CEDAR Logic Instructions](tutorials/cedarlogic_tutorial.md) & Video Demo [video]
+  - [CEDAR Logic Instructions](tutorials/cedarlogic_tutorial.md) & [Video Demo](https://youtu.be/_OwVzorBHoE)
   - [Logism Instructions](tutorials/logism_tutorial.md) & [Video Demo](https://youtu.be/rQOv0h-4TEo) 
   - [Tinkercad Instructions](tutorials/tinkercad_tutorial.md) & [Video Demo](https://youtu.be/Tzx1uZuObxk)
   - [Visual Studio Code Instructions](tutorials/vscode_tutorial.md) & [Video Demo](https://youtu.be/WhppZrMvoBU)

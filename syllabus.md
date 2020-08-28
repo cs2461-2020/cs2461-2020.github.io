@@ -10,12 +10,17 @@ permalink: /syllabus/
 **Prerequisites:** Programming and Data structures (CS 1112 or CS 1132), Discrete Math ( CS1311), and concurrent registration in CS2113 or a prior knowledge of C. (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/)).
 
 **Time/Place:**
-  * **Class meets:**
-  * **Lab meets:**
+  * **Class meets: Tuesday, Thursday 2:20 - 3:35pm**
 
 **Office Hours:**
 Check [Piazza](https://piazza.com/gwu/) for most updated ones.
 
+**Online Platforms**
+* Piazza for discussions
+* Slack for one on one communication with instruction team
+* Blackboard (Grades, Synchronous lectures, Homeworks)
+* Github (programming projects)
+* Webpage - course slides, recordings, tutorials, links to software
 
 **Course Staff:**
   - [William Miller](mailto:bmiller8@gwmail.gwu.edu) - TA
@@ -53,7 +58,7 @@ Software:
   * [CEDAR Logic Simulator](http://sourceforge.net/projects/cedarlogic/):   Hardware logic/circuit simulator - this is the circuit simulation tool I will be using in the class examples and exercises. It only runs on MS Windows. If you use Mac, then you could use this for your practice:  [Logisim for Mac](http://mac.softpedia.com/get/Math-Scientific/Logisim.shtml)
   * [LC3 Assembler and Simulator](http://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html):  Assembler and Simulator for LC3 processor. Available from the textbook website.
 
-** Lab Sections ** You must be registered in a lab section. These will be conducted by the TAs. The Labs will be held on Blackboard. The labs will review material but will also cover new skills and software tools that will not be covered in the lectures.
+* <b> Lab Sections </b> * You must be registered in a lab section. These will be conducted by the TAs. The Labs will be held on Blackboard. The labs will review material but will also cover new skills and software tools that will not be covered in the lectures.
 
 ### Workload and Grading  ###
 The course will be taught using a combination of recorded video lectures (and tutorials) and live synchronous sessions. As a 3 credit course, it will require a minimum of 2.5 hours per week of direct instruction and minimum of 5 hours of independent learning. In addition, the laboratory section will require 75 minutes of direct instruction and will include independent learning exercises and additional software tools to assist in your learning. Over the course of the semester, your independent learning will include watching video recordings, readings (lecture notes and/or textbook), homeworks and projects. The synchronous sessions will include lecture summaries, exercises and discussions. All synchronous sessions will be conducted using Blackboard Collaborate, and recordings of most of these sessions will be provided on blackboard.

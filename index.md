@@ -55,8 +55,8 @@ layout: home
 | Introduction  | Materials 
 | :--- |:---  |
 | Week 0  |  [Course Logistics](lectures/logistics.pdf) [Meet the instruction team](https://youtu.be/Z60EkJ3WLFk)<br> [Course Intro](lectures/syllabus.pdf) [Syllabus-Video](https://youtu.be/qdzqUj4rzRY)|  
-| Week 1- Data Representation  | [Data Representation1](lectures/datarep1.pdf) [Video] <br> [Operations](lectures/datarep2.pdf) [Video]| 
-| Lab Week 1  | [Introduction to Circuits](lectures/ohmslaw.pdf) [Video] <br> [Getting Stated with TinkerCad](lectures/lab1.pdf) [Video]| 
+| Week 1- Data Representation  | [Data Representation1](lectures/datarep1.pdf) [Two's Complement Representation -Video](https://youtu.be/9Emc7YhhMQc) <br> [Operations](lectures/datarep2.pdf) [Video]| 
+| Lab Week 1  | Introduction to Circuits(Notes posted on Blackboard- Ohms Law) <br> Getting Stated with TinkerCad| 
 
 | Digital Logic  | Materials 
 | :--- |:---  |

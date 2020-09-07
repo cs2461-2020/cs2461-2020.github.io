@@ -54,15 +54,15 @@ layout: home
 
 | Introduction  | Materials 
 | :--- |:---  |
-| Week 0  |  [Course Logistics](lectures/logistics.pdf) [Meet the instruction team](https://youtu.be/Z60EkJ3WLFk)<br> [Course Intro](lectures/syllabus.pdf) [Syllabus-Video](https://youtu.be/qdzqUj4rzRY)|  
-| Week 1- Data Representation  | [Data Representation1](lectures/datarep1.pdf) [Two's Complement Representation -Video](https://youtu.be/9Emc7YhhMQc) <br> [Operations](lectures/datarep2.pdf) [Video]| 
+| Week 0 <br> Chapter 1 |  [Course Logistics](lectures/logistics.pdf) [Meet the instruction team](https://youtu.be/Z60EkJ3WLFk)<br> [Course Intro](lectures/syllabus.pdf) [Syllabus-Video](https://youtu.be/qdzqUj4rzRY)|  
+| Week 1- Data Representation <br> Chapter 2 | [Data Representation1](lectures/datarep1.pdf) [Two's Complement Representation -Video](https://youtu.be/9Emc7YhhMQc) <br> [Operations](lectures/datarep2.pdf) [Video]| 
 | Lab Week 1  | Introduction to Circuits(Notes posted on Blackboard- Ohms Law) <br> Getting Stated with TinkerCad| 
 
 | Digital Logic  | Materials 
 | :--- |:---  |
-| Introduction (Week 2)  |  [Devices](lectures/transistor-gates.pdf)<br> [Boolean Functions & Combinational Logic Circuits](lectures/logic1.pdf) [Video] <br> [CedarLogic Circuits for Week2](lectures/Set1.cdl) [LogiSim Circuits for Week2](lectures/Set1.zip)<br> [Karnaugh Maps and Circuit Design- Review](lectures/Kmaps.pdf) |  
-| Combinational Logic Circuits <br> (Weeks 2-4)  | Review Karnaugh Maps (Reading) <br> [Combinational Logic Devices](lectures/logic2.pdf) [Video]<br> [Circuits with Feedback-FlipFlops](lectures/logic3.pdf) [Video}| 
-| Sequential Logic (Week 4-5)| [Sequential Logic](seqlogic.pdf) [Video] <br> [Finite State Machine Design](lectures/fsm.pdf) [Video]|
+| Introduction (Week 2) <br> Chapter 3 |  [Devices](lectures/transistor-gates.pdf)<br> [Boolean Functions & Combinational Logic Circuits](lectures/logic1.pdf) [Video] <br> [CedarLogic Circuits for Week2](lectures/Set1.cdl) [LogiSim Circuits for Week2](lectures/Set1.zip)<br> [Karnaugh Maps and Circuit Design- Review](lectures/Kmaps.pdf) |  
+| Combinational Logic Circuits <br> (Weeks 2-4) Chap.3  | Review Karnaugh Maps (Reading) <br> [Combinational Logic Devices](lectures/logic2.pdf) [Video]<br> [Circuits with Feedback-FlipFlops](lectures/logic3.pdf) [Video}| 
+| Sequential Logic (Week 4-5) <br> Chapter 3| [Sequential Logic](seqlogic.pdf) [Video] <br> [Finite State Machine Design](lectures/fsm.pdf) [Video]|
 | Week 2 Lab | Using DIP Switches and a Simple Logic Circuit |
 | Week 3 Lab | Design of Combinational Logic circuit using Integrated Circuits |
 | Week 4 Lab | Design of Logic Devices - project 1|
@@ -70,16 +70,16 @@ layout: home
 
 | ISA and Assembly Programming  | Materials 
 | :--- |:---  |
-| von Neuman Model (Week 6) <br> LC3 Instruction Set Architecture(ISA)  |  [von Neuman Architecture and Instruction Execution](lectures/arch1.pdf) [Video]<br> [LC3 Instruction Set] (lectures/LC3-ISA.pdf) [Video]|  
-| Processor Datapath (week 7) | [Datapath Design](lectures/Datapath.pdf) [Video] <br> [Example in Cedar Logic](lectures/datapath.cdl) [Video]| 
-| Assembly Programming <br> <b>Exam 1 </b> | [Programming in Assembly](lectures/assembly1.pdf) [Video] <br> <b> Exam Covers material upto LC3 ISA </b> |
-|Assembly Programming <br> Weeks 8-9 | [I/O and Traps in LC3](lectures/assembly2.pdf) [Video] <br> [Subroutines/Functions in Assembly](lectures/assembly3.pdf) [Video] <br> [Stacks and Interrupts](lectures/stack.pdf) [Video]|
+| von Neuman Model (Week 6)Chap. 4-5 <br> LC3 Instruction Set Architecture(ISA)  |  [von Neuman Architecture and Instruction Execution](lectures/arch1.pdf) [Video]<br> [LC3 Instruction Set] (lectures/LC3-ISA.pdf) [Video]|  
+| Processor Datapath (week 7) <br> Chapter 5, Appendix A,C| [Datapath Design](lectures/Datapath.pdf) [Video] <br> [Example in Cedar Logic](lectures/datapath.cdl) [Video]| 
+| Assembly Programming (Chap 6-7) <br> <b>Exam 1 </b> | [Programming in Assembly](lectures/assembly1.pdf) [Video] <br> <b> Exam Covers material upto LC3 ISA </b> |
+|Assembly Programming <br> Weeks 8-9 <br> Chapters 7-10| [I/O and Traps in LC3](lectures/assembly2.pdf) [Video] <br> [Subroutines/Functions in Assembly](lectures/assembly3.pdf) [Video] <br> [Stacks and Interrupts](lectures/stack.pdf) [Video]|
 | Labs Weeks 6-9 <br> Lab Week 7 | [Getting Started with LC3 simulator](lectures/lc3-simulator.pdf) [Video] <br> [Writing an Assembly Program](lectures/LC3-asm1.pdf) [Video]<br> [Assembly program using Subroutines](lectures/LC3-asm2.pdf)| 
 
 | Implementing C programs on Machine ISA   | Materials 
 | :--- |:---  |
-| Running high level programs (Week 9) <br> Quick Review of C (Week 9)  |  [Translation Process and Role of Compiler](lectures/C-Lecture1.pdf) [Video] <br> [C Review](lectures/C-lecture1.pdf) [Video]|  
-| Running C programs on LC3  (weeks 10-12)<br> Run-time Stack <br> Activation Records and Function Calls <br> Arrays and Pointers <br> Dynamic Memory (Heap) | [Run-time Stack](lectures/runtimestack.pdf) [Video] <br> [Function Calls](lectures/functions.pdf)<br> [Arrays and Pointers](lectures/pointers.pdf) [Video] <br> [Dynamic Memory-Malloc](lectures/dynamic.pdf) [Video]| 
+| Running high level programs (Week 9) <br> Quick Review of C (Week 9) Chapters 11,12,13  |  [Translation Process and Role of Compiler](lectures/C-Lecture1.pdf) [Video] <br> [C Review](lectures/C-lecture1.pdf) [Video]|  
+| Running C programs on LC3  (weeks 10-12)<br> Run-time Stack (Chap 12) <br> Activation Records and Function Calls (Chap 14) <br> Arrays and Pointers (Chap 16)<br> Dynamic Memory (Heap)Chap.19 | [Run-time Stack](lectures/runtimestack.pdf) [Video] <br> [Function Calls](lectures/functions.pdf)<br> [Arrays and Pointers](lectures/pointers.pdf) [Video] <br> [Dynamic Memory-Malloc](lectures/dynamic.pdf) [Video]| 
 
 | Labs Weeks 10-12  <br> I/O and Files in C| [Working with C](lectures/C-Labs.pdf)<br> [Tools: GDB, Valgrind](lectures/gdb.pdf) [Video] <br> [I/O and Files in C](lectures/Files-IO.pdf) [Video]| 
 | <b> Exam 2 </b> | All material upto Dynamic Memory in C |

@@ -60,7 +60,7 @@ layout: home
 
 | Digital Logic  | Materials 
 | :--- |:---  |
-| Introduction (Week 2)  |  [Devices](lectures/transistor-gates.pdf)<br> [Boolean Functions](lectures/logic1.pdf) [Video] <br> [CedarLogic Circuits for Week2](lectures/Set1.cdl) [LogiSim Circuits for Week2](lectures/Set1.zip)<br> [Karnaugh Maps and Circuit Design- Review](lectures/Kmaps.pdf) |  
+| Introduction (Week 2)  |  [Devices](lectures/transistor-gates.pdf)<br> [Boolean Functions & Combinational Logic Circuits](lectures/logic1.pdf) [Video] <br> [CedarLogic Circuits for Week2](lectures/Set1.cdl) [LogiSim Circuits for Week2](lectures/Set1.zip)<br> [Karnaugh Maps and Circuit Design- Review](lectures/Kmaps.pdf) |  
 | Combinational Logic Circuits <br> (Weeks 2-4)  | Review Karnaugh Maps (Reading) <br> [Combinational Logic Devices](lectures/logic2.pdf) [Video]<br> [Circuits with Feedback-FlipFlops](lectures/logic3.pdf) [Video}| 
 | Sequential Logic (Week 4-5)| [Sequential Logic](seqlogic.pdf) [Video] <br> [Finite State Machine Design](lectures/fsm.pdf) [Video]|
 | Week 2 Lab | Using DIP Switches and a Simple Logic Circuit |

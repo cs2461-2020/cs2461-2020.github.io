@@ -1,7 +1,7 @@
 <circuit>
 <CurrentPage>0</CurrentPage>
 <page 0>
-<PageViewport>-87.9116,54.7665,-6.2131,5.48381</PageViewport>
+<PageViewport>-90.6211,54.7665,-3.5036,5.48381</PageViewport>
 <gate>
 <ID>193</ID>
 <type>VE_PMOS</type>
@@ -27,18 +27,6 @@
 <gparam>angle 90</gparam>
 <lparam>DEFAULT_DELAY 1</lparam></gate>
 <gate>
-<ID>2</ID>
-<type>VE_PMOS</type>
-<position>-28,21</position>
-<input>
-<ID>T_ctrl</ID>3 </input>
-<input>
-<ID>T_in</ID>13 </input>
-<input>
-<ID>T_in2</ID>12 </input>
-<gparam>angle 90</gparam>
-<lparam>DEFAULT_DELAY 1</lparam></gate>
-<gate>
 <ID>195</ID>
 <type>VA_NMOS</type>
 <position>-64.5,34</position>
@@ -48,6 +36,18 @@
 <ID>T_in</ID>84 </input>
 <input>
 <ID>T_in2</ID>88 </input>
+<gparam>angle 90</gparam>
+<lparam>DEFAULT_DELAY 1</lparam></gate>
+<gate>
+<ID>2</ID>
+<type>VE_PMOS</type>
+<position>-28,21</position>
+<input>
+<ID>T_ctrl</ID>3 </input>
+<input>
+<ID>T_in</ID>13 </input>
+<input>
+<ID>T_in2</ID>12 </input>
 <gparam>angle 90</gparam>
 <lparam>DEFAULT_DELAY 1</lparam></gate>
 <gate>
@@ -78,6 +78,12 @@
 <gparam>angle 90</gparam>
 <lparam>DEFAULT_DELAY 1</lparam></gate>
 <gate>
+<ID>203</ID>
+<type>VE_PMOS</type>
+<position>-64,17.5</position>
+<gparam>angle 90</gparam>
+<lparam>DEFAULT_DELAY 1</lparam></gate>
+<gate>
 <ID>10</ID>
 <type>VA_NMOS</type>
 <position>-28,16</position>
@@ -87,12 +93,6 @@
 <ID>T_in</ID>11 </input>
 <input>
 <ID>T_in2</ID>13 </input>
-<gparam>angle 90</gparam>
-<lparam>DEFAULT_DELAY 1</lparam></gate>
-<gate>
-<ID>203</ID>
-<type>VE_PMOS</type>
-<position>-64,17.5</position>
 <gparam>angle 90</gparam>
 <lparam>DEFAULT_DELAY 1</lparam></gate>
 <gate>
@@ -527,7 +527,7 @@
 <name>T_in</name></connection>
 <intersection>38.5 3</intersection></vsegment></shape></wire></page 0>
 <page 1>
-<PageViewport>-21.2957,52.5082,37.7695,16.8785</PageViewport>
+<PageViewport>-23.2546,52.5082,39.7284,16.8785</PageViewport>
 <gate>
 <ID>155</ID>
 <type>AA_LABEL</type>
@@ -587,7 +587,7 @@
 <type>VE_PMOS</type>
 <position>-5,35.5</position>
 <input>
-<ID>T_ctrl</ID>78 </input>
+<ID>T_ctrl</ID>1 </input>
 <input>
 <ID>T_in</ID>77 </input>
 <input>
@@ -611,7 +611,7 @@
 <type>VA_NMOS</type>
 <position>0.5,28.5</position>
 <input>
-<ID>T_ctrl</ID>78 </input>
+<ID>T_ctrl</ID>1 </input>
 <input>
 <ID>T_in</ID>81 </input>
 <input>
@@ -631,9 +631,9 @@
 <gate>
 <ID>166</ID>
 <type>AA_TOGGLE</type>
-<position>-13.5,35.5</position>
+<position>-14,35.5</position>
 <output>
-<ID>OUT_0</ID>78 </output>
+<ID>OUT_0</ID>1 </output>
 <gparam>CLICK_BOX -0.76,-0.76,0.76,0.76</gparam>
 <gparam>angle 0.0</gparam>
 <lparam>OUTPUT_BITS 1</lparam>
@@ -648,7 +648,7 @@
 <gate>
 <ID>168</ID>
 <type>AA_LABEL</type>
-<position>-15.5,36</position>
+<position>-17,35.5</position>
 <gparam>LABEL_TEXT B</gparam>
 <gparam>TEXT_HEIGHT 1</gparam>
 <gparam>angle 0</gparam></gate>
@@ -699,6 +699,36 @@
 <gparam>LABEL_TEXT Ground: 0</gparam>
 <gparam>TEXT_HEIGHT 1</gparam>
 <gparam>angle 0.0</gparam></gate>
+<wire>
+<ID>1</ID>
+<shape>
+<hsegment>
+<ID>1</ID>
+<points>-12,25.5,-1.5,25.5</points>
+<intersection>-12 4</intersection>
+<intersection>-1.5 3</intersection></hsegment>
+<vsegment>
+<ID>3</ID>
+<points>-1.5,25.5,-1.5,28.5</points>
+<connection>
+<GID>164</GID>
+<name>T_ctrl</name></connection>
+<intersection>25.5 1</intersection></vsegment>
+<vsegment>
+<ID>4</ID>
+<points>-12,25.5,-12,35.5</points>
+<intersection>25.5 1</intersection>
+<intersection>35.5 6</intersection></vsegment>
+<hsegment>
+<ID>6</ID>
+<points>-12,35.5,-7,35.5</points>
+<connection>
+<GID>162</GID>
+<name>T_ctrl</name></connection>
+<connection>
+<GID>166</GID>
+<name>OUT_0</name></connection>
+<intersection>-12 4</intersection></hsegment></shape></wire>
 <wire>
 <ID>76</ID>
 <shape>
@@ -755,41 +785,6 @@
 <name>N_in0</name></connection>
 <intersection>-4 3</intersection></hsegment></shape></wire>
 <wire>
-<ID>78</ID>
-<shape>
-<hsegment>
-<ID>1</ID>
-<points>-11.5,35.5,-7,35.5</points>
-<connection>
-<GID>162</GID>
-<name>T_ctrl</name></connection>
-<connection>
-<GID>166</GID>
-<name>OUT_0</name></connection>
-<intersection>-11.5 3</intersection></hsegment>
-<vsegment>
-<ID>3</ID>
-<points>-11.5,25,-11.5,35.5</points>
-<intersection>25 4</intersection>
-<intersection>35.5 1</intersection></vsegment>
-<hsegment>
-<ID>4</ID>
-<points>-11.5,25,-3,25</points>
-<intersection>-11.5 3</intersection>
-<intersection>-3 5</intersection></hsegment>
-<vsegment>
-<ID>5</ID>
-<points>-3,25,-3,28.5</points>
-<intersection>25 4</intersection>
-<intersection>28.5 7</intersection></vsegment>
-<hsegment>
-<ID>7</ID>
-<points>-3,28.5,-1.5,28.5</points>
-<connection>
-<GID>164</GID>
-<name>T_ctrl</name></connection>
-<intersection>-3 5</intersection></hsegment></shape></wire>
-<wire>
 <ID>79</ID>
 <shape>
 <hsegment>
@@ -801,19 +796,19 @@
 <connection>
 <GID>165</GID>
 <name>OUT_0</name></connection>
-<intersection>-11.5 3</intersection></hsegment>
+<intersection>-10.5 3</intersection></hsegment>
 <vsegment>
 <ID>3</ID>
-<points>-11.5,28.5,-11.5,40.5</points>
+<points>-10.5,28.5,-10.5,40.5</points>
 <intersection>28.5 5</intersection>
 <intersection>40.5 1</intersection></vsegment>
 <hsegment>
 <ID>5</ID>
-<points>-11.5,28.5,-9,28.5</points>
+<points>-10.5,28.5,-9,28.5</points>
 <connection>
 <GID>163</GID>
 <name>T_ctrl</name></connection>
-<intersection>-11.5 3</intersection></hsegment></shape></wire>
+<intersection>-10.5 3</intersection></hsegment></shape></wire>
 <wire>
 <ID>80</ID>
 <shape>
@@ -852,7 +847,7 @@
 <name>T_in</name></connection>
 <intersection>23.5 1</intersection></vsegment></shape></wire></page 1>
 <page 2>
-<PageViewport>113.424,-40.9918,171.501,-76.025</PageViewport>
+<PageViewport>111.498,-40.9918,173.427,-76.025</PageViewport>
 <gate>
 <ID>1</ID>
 <type>VE_PMOS</type>
@@ -1150,19 +1145,19 @@
 <connection>
 <GID>6</GID>
 <name>OUT_0</name></connection>
-<intersection>121 3</intersection></hsegment>
+<intersection>122.5 3</intersection></hsegment>
 <vsegment>
 <ID>3</ID>
-<points>121,-68.5,121,-56.5</points>
+<points>122.5,-68.5,122.5,-56.5</points>
 <intersection>-68.5 5</intersection>
 <intersection>-56.5 1</intersection></vsegment>
 <hsegment>
 <ID>5</ID>
-<points>121,-68.5,123.5,-68.5</points>
+<points>122.5,-68.5,123.5,-68.5</points>
 <connection>
 <GID>4</GID>
 <name>T_ctrl</name></connection>
-<intersection>121 3</intersection></hsegment></shape></wire>
+<intersection>122.5 3</intersection></hsegment></shape></wire>
 <wire>
 <ID>8</ID>
 <shape>
@@ -1275,7 +1270,7 @@
 <name>N_in0</name></connection>
 <intersection>153.5 0</intersection></hsegment></shape></wire></page 2>
 <page 3>
-<PageViewport>39.296,177.953,141.229,116.464</PageViewport>
+<PageViewport>35.9151,177.953,144.61,116.464</PageViewport>
 <gate>
 <ID>34</ID>
 <type>VE_PMOS</type>
@@ -1855,7 +1850,7 @@
 <GID>138</GID>
 <name>N_in0</name></connection></hsegment></shape></wire></page 3>
 <page 4>
-<PageViewport>-87.25,58.6181,-17.4396,16.5067</PageViewport>
+<PageViewport>-89.5652,58.6181,-15.1244,16.5067</PageViewport>
 <gate>
 <ID>80</ID>
 <type>AA_TOGGLE</type>
@@ -2348,7 +2343,7 @@
 <GID>106</GID>
 <name>N_in0</name></connection></hsegment></shape></wire></page 4>
 <page 5>
-<PageViewport>392.277,37.7665,479.502,-14.8494</PageViewport>
+<PageViewport>389.385,37.7665,482.394,-14.8494</PageViewport>
 <gate>
 <ID>43</ID>
 <type>AI_XOR2</type>
@@ -2427,13 +2422,13 @@
 <gate>
 <ID>50</ID>
 <type>AA_TOGGLE</type>
-<position>415.5,29.5</position>
+<position>415,29.5</position>
 <output>
 <ID>OUT_0</ID>32 </output>
 <gparam>CLICK_BOX -0.76,-0.76,0.76,0.76</gparam>
 <gparam>angle 0.0</gparam>
 <lparam>OUTPUT_BITS 1</lparam>
-<lparam>OUTPUT_NUM 1</lparam></gate>
+<lparam>OUTPUT_NUM 0</lparam></gate>
 <gate>
 <ID>51</ID>
 <type>AE_OR2</type>
@@ -2669,7 +2664,7 @@
 <intersection>420 0</intersection></hsegment>
 <hsegment>
 <ID>2</ID>
-<points>417.5,29.5,420,29.5</points>
+<points>417,29.5,420,29.5</points>
 <connection>
 <GID>50</GID>
 <name>OUT_0</name></connection>
@@ -2809,7 +2804,7 @@
 <name>OUT_0</name></connection>
 <intersection>415.5 0</intersection></hsegment></shape></wire></page 5>
 <page 6>
-<PageViewport>-37.775,472.076,4.68561,446.463</PageViewport>
+<PageViewport>-39.1829,472.076,6.09346,446.463</PageViewport>
 <gate>
 <ID>42</ID>
 <type>AA_LABEL</type>
@@ -2818,7 +2813,7 @@
 <gparam>TEXT_HEIGHT 1</gparam>
 <gparam>angle 0.0</gparam></gate></page 6>
 <page 7>
-<PageViewport>397.9,-83.6854,472.193,-128.501</PageViewport>
+<PageViewport>395.436,-83.6854,474.657,-128.501</PageViewport>
 <gate>
 <ID>41</ID>
 <type>AA_LABEL</type>
@@ -2827,7 +2822,7 @@
 <gparam>TEXT_HEIGHT 2</gparam>
 <gparam>angle 0.0</gparam></gate></page 7>
 <page 8>
-<PageViewport>878,321.116,1091.21,192.501</PageViewport>
+<PageViewport>870.928,321.116,1098.28,192.501</PageViewport>
 <gate>
 <ID>24</ID>
 <type>AA_LABEL</type>
@@ -2836,4 +2831,4 @@
 <gparam>TEXT_HEIGHT 2</gparam>
 <gparam>angle 0.0</gparam></gate></page 8>
 <page 9>
-<PageViewport>997.141,342.896,1916.48,-211.671</PageViewport></page 9></circuit>
+<PageViewport>966.654,342.896,1946.97,-211.671</PageViewport></page 9></circuit>

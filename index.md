@@ -61,7 +61,7 @@ layout: home
 | Digital Logic  | Materials 
 | :--- |:---  |
 | Transistors & Logic Gates (Week 2) <br> Chapter 3 |  [Devices-Transistors](lectures/transistor-gates.pdf) [How Transistors work (Video)](https://youtu.be/4DdTtF4Fop8)<br> [Building Gates from Transistors (Video)](https://youtu.be/WrJV4_852iE)<br> [Boolean Functions & Combinational Logic Circuits](lectures/logic1.pdf)  <br> [Truth Table to Logic Circuit - Video](https://youtu.be/BdhCUqusS9w) <br> [CedarLogic Circuits for Week2](lectures/Set1.cdl) [LogiSim Circuits for Week2](lectures/Set1.zip)<br> [Cedar Logic Circuits Set1 - figures](lectures/set1.pdf) <br> [Karnaugh Maps and Circuit Design- Review](lectures/Kmaps.pdf) |  
-| Combinational Logic Circuits <br> (Weeks 2-4) Chap.3  | Review Karnaugh Maps (Reading) <br> [Combinational Logic Devices](lectures/logic2.pdf) [Video]<br> [Circuits with Feedback-FlipFlops](lectures/logic3.pdf) [Video}| 
+| Combinational Logic Circuits <br> (Week 3) Chap.3 <br> Data types & Bitwise in C | Review Karnaugh Maps (Reading) <br> [Combinational Logic Devices](lectures/logic2.pdf) [Video]<br> [Decoders-Video]  [Multiplexers-Video] <br> [Cedar Logic Circuits-Week3](lectures/Set2.cdl) [Logisim Circuits Week3](lectures/Set2.zip) <br> [Circuits with Feedback-FlipFlops](lectures/logic3.pdf) [Video}| 
 | Sequential Logic (Week 4-5) <br> Chapter 3| [Sequential Logic](seqlogic.pdf) [Video] <br> [Finite State Machine Design](lectures/fsm.pdf) [Video]|
 | Week 2 Lab | [Design of Combinational Logic circuit using Integrated Circuits](lectures/Lab2.pdf) |
 | Week 3 Lab | [Using DIP Switches in Logic Circuits](lectures/Lab3.pdf)  |

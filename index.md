@@ -70,7 +70,7 @@ layout: home
 
 | ISA and Assembly Programming  | Materials 
 | :--- |:---  |
-| von Neuman Model (Week 5)Chap. 4-5 <br> LC3 Instruction Set Architecture(ISA)  |  [von Neuman Architecture and Instruction Execution](lectures/Intro-CompOrg.pdf)<br> [von Neuman model and Instruction Processing Cycle (Video)](https://youtu.be/dMfxPZEhDlg) <br> [LC3 Instruction Set](lectures/LC3-ISA.pdf) <br> [Example of instruction execution & datapath requirements (Video)]|  
+| von Neuman Model (Week 5)Chap. 4-5 <br> LC3 Instruction Set Architecture(ISA)  |  [von Neuman Architecture and Instruction Execution](lectures/Intro-CompOrg.pdf)<br> [von Neuman model and Instruction Processing Cycle (Video)](https://youtu.be/dMfxPZEhDlg) <br> [LC3 Instruction Set](lectures/LC3-ISA.pdf) <br> [LC3 ISA-Operate Instructions Dataflow (Video)] <br> [LC3 ISA-Memory and Branch Instructions (Video)]|  
 | Processor Datapath (week 6) <br> Chapter 5, Appendix A,C| [LC3 Datapath Design](lectures/Datapath.pdf)<br> [Example Datapath Requirements for an LC3 instruction(Video)] <br> [Example: Datapath design in Cedar Logic](lectures/datapath.cdl)<br> [Design of a processor datapath (Example)](lectures/datapath-example.pdf)| 
 | Assembly Programming (Chap 6-7) <br> <b>Exam 1 </b> - week 7| [Programming in Assembly](lectures/assembly1.pdf) [Video] <br> <b> Exam Covers material upto (including) LC3 ISA </b> |
 |Assembly Programming <br> Weeks 8-9 <br> Chapters 7-10| [I/O and Traps in LC3](lectures/assembly2.pdf) [Video] <br> [Subroutines/Functions in Assembly](lectures/assembly3.pdf) [Video] <br> [Stacks and Interrupts](lectures/stack.pdf) [Video]|

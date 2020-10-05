@@ -42,6 +42,7 @@ layout: home
   - [Slack]() - [Join here]()
   - [LC3 Download Instructions](https://github.com/chiragsakhuja/lc3tools/blob/master/docs/DownloadingAndInstalling.pdf)
   - [LC3 Download Page](https://github.com/chiragsakhuja/lc3tools/releases)
+  - [LC3 Tools Guide](https://github.com/chiragsakhuja/lc3tools/blob/master/docs/GuideToUsingLC3Tools.pdf)
   - [Git Instructions](tutorials/git_tutorial.md) & [Video Demo](https://youtu.be/RvEgfSeEuB0)
   - [CEDAR Logic Instructions](tutorials/cedarlogic_tutorial.md) & [Video Demo](https://youtu.be/_OwVzorBHoE)
   - [Logism Instructions](tutorials/logism_tutorial.md) & [Video Demo](https://youtu.be/rQOv0h-4TEo) 

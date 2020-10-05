@@ -80,11 +80,9 @@ layout: home
 | :--- |:---  |
 | Running high level programs (Week 9) <br> Quick Review of C (Week 9) Chapters 11,12,13  |  [Translation Process and Role of Compiler](lectures/C-Lecture1.pdf) [Video] <br> [C Review](lectures/C-lecture1.pdf) [Video]|  
 | C programs on LC3  (weeks 10-12)<br> Run-time Stack (Chap 12) <br> Activation Records and Function Calls (Chap 14) <br> Arrays and Pointers (Chap 16)<br> Dynamic Memory (Heap)Chap.19 | [Run-time Stack](lectures/runtimestack.pdf) [Video] <br> [Function Calls](lectures/functions.pdf)<br> [Arrays and Pointers](lectures/pointers.pdf) [Video] <br> [Dynamic Memory-Malloc](lectures/dynamic.pdf) | 
-|Labs Weeks 10-12 | Programming in C|
+|Labs Weeks 10-12 | Programming in C <br> [GDB Tutorial(Video)](https://youtu.be/_YPwCyXQER4) <br> [Valgrind Tutorial (Video)](https://youtu.be/nxI9KWO35oY) <br> [File I/O](lectures/file-IO.pdf)|
 
-|Labs Weeks 10-12  <br> Programming in C | [Tools: GDB, Valgrind](lectures/gdb.pdf)<br>
-[GDB Tutorial (Video)](https://youtu.be/_YPwCyXQER4) <br>
-[Valgrind Tutorial (Video)](https://youtu.be/nxI9KWO35oY) <br> [I/O and Files in C](lectures/Files-IO.pdf) | 
+ 
 | <b> Exam 2 </b> | All material upto Dynamic Memory in C |
 
 | Program Performance and Computer Architecture  | Materials 

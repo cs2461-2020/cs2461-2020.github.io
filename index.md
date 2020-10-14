@@ -75,7 +75,7 @@ layout: home
 | Processor Datapath (week 6) <br> Chapter 5, Appendix A,C| [LC3 Datapath Design](lectures/Datapath.pdf)<br> [Example Datapath Requirements for an LC3 instruction(Video)] <br> [Example: Datapath design in Cedar Logic](lectures/datapath.cdl)<br> [Design of a processor datapath (Example)](lectures/datapath-example.pdf)<br> [Inclass Exercises-October 9](lectures/inclass-october9.pdf)| 
 | Assembly Programming (Chap 6-7) <br> <b>Exam 1 </b> - week 7 (October 13)| [Programming in Assembly](lectures/assembly1.pdf) [Video] <br> <b> Exam Covers material upto (including) LC3 ISA </b> |
 |Assembly Programming <br> Weeks 8-9 <br> Chapters 7-10| [I/O and Traps in LC3](lectures/assembly2.pdf) [Video] <br> [Subroutines/Functions in Assembly](lectures/assembly3.pdf) [Video] <br> [Stacks and Interrupts](lectures/stack.pdf) [Video]|
-| Labs Weeks 6-9 <br> Lab Week 7 | [Getting Started with LC3 simulator](lectures/lc3-simulator.pdf) [Video] <br> [Writing an Assembly Program](lectures/LC3-asm1.pdf) [Video]<br> [Assembly program using Subroutines](lectures/LC3-asm2.pdf)| 
+| Labs Weeks 6-9 <br> Lab Week 7 | [Getting Started with LC3 simulator](lectures/lc3-simulator.pdf) [Video] <br> [Writing an Assembly Program](lectures/Lab-Week7.pdf) [Video]<br> [Assembly program using Subroutines](lectures/LC3-asm2.pdf)| 
 
 | Implementing C programs on Machine ISA   | Materials 
 | :--- |:---  |

@@ -88,7 +88,7 @@ layout: home
 
 | Program Performance and Computer Architecture  | Materials 
 | :--- |:---  |
-| Performance Optimization (Weeks 12-14) <br> Memory Hierarchy <br> Code Optimization   |  [Measuring System Performance](lectures/performance1.pdf) [Video]<br> [Memory Hierarchy] (lectures/memory.pdf) [Video] <br> [Code Optimization Techniques](lectures/optimization.pdf)|  
+| Performance Optimization (Weeks 12-14) <br> Memory Hierarchy <br> Code Optimization   |  [Performance metrics & Memory Hierarchy](lectures/memory.pdf)<br>  [Code Optimization Techniques](lectures/optimization.pdf)|  
 | Labs Weeks 12-14  | Project 5,6 discussions|
 | Course Summary  | [Course Summary: Real Architectures](lectures/summary.pdf) [Video] | 
  
